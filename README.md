@@ -304,5 +304,3 @@ This project helps companies:
 - Data Analytics
 
 
-# ⭐ If you found this project useful, give it a star on GitHub!
-
