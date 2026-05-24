@@ -1,10 +1,10 @@
-# 🔮 Customer Churn Prediction Project
+# Customer Churn Prediction Project
 
 A complete end-to-end Machine Learning and Data Analytics project to predict customer churn in the Telecommunications sector. This project uses customer data to analyze churn behavior, perform exploratory data analysis (EDA), train multiple machine learning classification models, and deploy the best-performing model using an interactive Streamlit web application.
 
 ---
 
-# 📌 Table of Contents
+# Table of Contents
 
 - Overview
 - Features
@@ -23,7 +23,7 @@ A complete end-to-end Machine Learning and Data Analytics project to predict cus
 
 ---
 
-# 📖 Overview
+# Overview
 
 Customer churn prediction is one of the most important business problems in the telecommunications industry. Companies need to identify customers who are likely to leave their service so they can take preventive actions to improve customer retention.
 
@@ -44,7 +44,7 @@ The project includes:
 
 ---
 
-# ✨ Features
+#  Features
 
 ✅ Data Cleaning and Preprocessing  
 ✅ Exploratory Data Analysis (EDA)  
@@ -59,7 +59,7 @@ The project includes:
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 ## Programming Language
 - Python
@@ -82,7 +82,7 @@ The project includes:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 customer_churn_prediction/
@@ -117,7 +117,7 @@ customer_churn_prediction/
 
 ---
 
-# 📊 Dataset Information
+#  Dataset Information
 
 The project uses the Telco Customer Churn dataset containing customer details such as:
 
@@ -159,7 +159,7 @@ The project performs detailed exploratory data analysis to identify important ch
 
 ---
 
-# 🤖 Machine Learning Models
+#  Machine Learning Models
 
 The following classification algorithms are implemented:
 
@@ -181,7 +181,7 @@ The following classification algorithms are implemented:
 
 ---
 
-# 📉 Model Evaluation
+# Model Evaluation
 
 Models are evaluated using:
 
@@ -196,7 +196,7 @@ The best-performing model is saved for deployment.
 
 ---
 
-# 🌐 Streamlit Web Application
+#  Streamlit Web Application
 
 An interactive Streamlit dashboard is included for real-time customer churn prediction.
 
@@ -209,7 +209,7 @@ An interactive Streamlit dashboard is included for real-time customer churn pred
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 ## Clone Repository
 
@@ -244,7 +244,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ How to Run the Project
+#  How to Run the Project
 
 ## Step 1: Train Models
 
@@ -274,7 +274,7 @@ streamlit run app/streamlit_app.py
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 
 - Deep Learning Integration
 - Real-time Database Support
@@ -285,7 +285,7 @@ streamlit run app/streamlit_app.py
 
 ---
 
-# 💡 Business Impact
+#  Business Impact
 
 This project helps companies:
 - Reduce customer loss
